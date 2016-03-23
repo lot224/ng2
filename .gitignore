@@ -3,7 +3,8 @@
 
 .sass-cache/
 
-[Nn]ode_modules
+[Nn]ode_modules/
+[Tt]ypings/
 
 # Windows image file caches
 Thumbs.db
